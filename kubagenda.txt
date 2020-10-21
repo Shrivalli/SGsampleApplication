@@ -1,0 +1,37 @@
+Agenda:
+
+What is Microservice?
+Moving from Monolith to Microservice
+Architecture
+Benefits
+Downsides
+Devops
+Docker
+Container
+
+
+
+What is Kubernetes?
+Need for Kubernetes
+Kubernetes Architeture
+Containerized Application 
+Deploy a containerized application to Azure Kubernetes Services
+
+
+Devops:
+1. Version Control System 
+
+Multiple Developers push the code -> common Repository --> github
+
+
+
+
+
+
+
+
+
+
+
+
+
